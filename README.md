@@ -1,4 +1,4 @@
-# 💞 fehzitu
+## 💞 fehzitu
 🔮 Arthur Felipe | 22y
 
 ## 💫 About Me:
@@ -19,6 +19,14 @@
 <br>
 
 ## 🎯 Stats:
+<p>
+  <a href="https://github.com/fehzitu?tab=followers">
+    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/fehzitu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
+  </a>
+  <a href="https://github.com/fehzitu?tab=repositories&sort=stargazers">
+    <img alt="Total stars" title="Total stars" src="https://custom-icon-badges.demolab.com/github/stars/fehzitu?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars" />
+  </a>
+</p>
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=fehzitu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
   <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehzitu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
