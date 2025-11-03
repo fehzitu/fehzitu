@@ -1,4 +1,5 @@
 # 💞 fehzitu
+🔮 Arthur Felipe | 22y
 
 ## 💫 About Me:
 🔭 Currently studying JavaScript<br>👯 Collaborating with anyone I can help<br>🤝 Seeking all possible knowledge<br>🌱 Growing personally and professionally thanks to a childhood friend (https://github.com/klinkonskydev)<br>💬 Feel free to reach out for a chat<br>⚡ Fun fact: I’m an apprentice classical artist/draftsman
@@ -12,7 +13,6 @@
   <img align="left" alt="Css" title="Css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="left" alt="Js" title="Js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="left" alt="NodeJs" title="NodeJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="Dart" title="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 </p>
 <br>
 <br>
