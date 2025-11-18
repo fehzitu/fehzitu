@@ -24,4 +24,5 @@
 ## 🎯 Stats:
 ![My profile](https://github-stats-alpha.vercel.app/api/?username=fehzitu&cc=212830&tc=ffffff&ic=ffffff&bc=151b23)
 
+## 🎫 Commits
 <img src="https://raw.githubusercontent.com/fehzitu/fehzitu/output/snake.svg" alt="Snake animation" />
