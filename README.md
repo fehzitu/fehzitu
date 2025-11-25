@@ -22,11 +22,8 @@
 <br>
 
 ## 🎯 Stats:
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fehzitu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fehzitu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fehzitu&theme=nord_dark) |
+| ![fehzitu stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fehzitu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fehzitu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fehzitu&theme=nord_dark) |
 | :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fehzitu&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=fehzitu&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
 
 ## 🎫 Commits
 <img src="https://raw.githubusercontent.com/fehzitu/fehzitu/output/snake.svg" alt="Snake animation" />
