@@ -25,5 +25,7 @@
 | ![Fehzitu Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fehzitu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fehzitu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fehzitu&theme=nord_dark) |
 | :-: | :-: | :-: |
 
+<!--
 ## 🎫 Commits
 <img src="https://raw.githubusercontent.com/fehzitu/fehzitu/output/snake.svg" alt="Snake animation" />
+-->
