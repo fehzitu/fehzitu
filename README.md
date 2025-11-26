@@ -19,7 +19,6 @@
 </p>
 <br>
 <br>
-<br>
 
 ## 🎯 Stats:
 | ![fehzitu stats](https://github-stats-alpha.vercel.app/api/?username=fehzitu&cc=212830&tc=ffffff&ic=ffffff&bc=151b23)
