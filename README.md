@@ -23,14 +23,15 @@ I'm a passionate developer in constant evolution, focused on mastering programmi
 
 ## 📂 Featured Projects
 ### 📌 Learning Repositories
-- 🔹 **[Php mastery journey](https://github.com/fehzitu/Php-mastery-journey)**  
-  Structured learning path focused on real-world usage
+
+- 🔹 **[King bot](https://github.com/fehzitu/King-bot)**  
+  Training Javascript creating an Discord bot
 
 - 🔹 **[100 exercises](https://github.com/fehzitu/100-exercises)**  
   Solving practical problems to build strong logic and problem-solving skills
 
-- 🔹 **[King bot](https://github.com/fehzitu/King-bot)**  
-  Training Javascript creating an Discord bot
+- 🔹 **[My simple portifolio](https://github.com/fehzitu/My-portifolio)**  
+  Structured learning path focused on real-world usage
 
 ## 📈 Current Focus
 - Writing cleaner and more professional code
