@@ -53,6 +53,8 @@ I'm a passionate developer in constant evolution, focused on mastering programmi
 
 ⭐ *If you like my work or want to collaborate, feel free to reach out!*
 
+<!--
 ## 🎫 Contributions:
 | <img src="https://raw.githubusercontent.com/fehzitu/fehzitu/output/snake.svg" alt="Snake animation" />
 | :-: |
+-->
