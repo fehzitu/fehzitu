@@ -24,7 +24,7 @@ I'm a passionate developer in constant evolution, focused on mastering programmi
 ## 📂 Featured Projects
 ### 📌 Learning Repositories
 
-- 🔹 **[King bot](https://github.com/fehzitu/King-bot)**  
+- 🔹 **[Killua](https://github.com/fehzitu/Killua)**  
   Training Javascript creating an Discord bot
 
 - 🔹 **[100 exercises](https://github.com/fehzitu/100-exercises)**  
