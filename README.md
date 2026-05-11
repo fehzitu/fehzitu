@@ -27,12 +27,6 @@ I'm a passionate developer in constant evolution, focused on mastering programmi
 - 🔹 **[Killua](https://github.com/fehzitu/Killua)**  
   Training Javascript creating an Discord bot
 
-- 🔹 **[100 exercises](https://github.com/fehzitu/100-exercises)**  
-  Solving practical problems to build strong logic and problem-solving skills
-
-- 🔹 **[My simple portifolio](https://github.com/fehzitu/My-portifolio)**  
-  Creating a simple portifolio to train simple designe ideas
-
 ## 📈 Current Focus
 - Writing cleaner and more professional code
 - Understanding backend development
