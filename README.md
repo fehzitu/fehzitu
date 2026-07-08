@@ -40,7 +40,7 @@ I'm a passionate developer in constant evolution, focused on mastering programmi
 - 📌 Build scalable and maintainable systems
 
 ## 📫 Contact
-- Portifolio (**very simple**): **[Click me!](https://fehzitu.github.io/My-portifolio/)**
+- Portfolio (**very simple**): **[Click me!](https://fehzitu.github.io/My-portfolio/)**
 
 ## 💭 Final Note
 > I'm not just learning how to code — I'm preparing to solve real problems and deliver value.
