@@ -46,9 +46,3 @@ I'm a passionate developer in constant evolution, focused on mastering programmi
 > I'm not just learning how to code — I'm preparing to solve real problems and deliver value.
 
 ⭐ *If you like my work or want to collaborate, feel free to reach out!*
-
-<!--
-## 🎫 Contributions:
-| <img src="https://raw.githubusercontent.com/fehzitu/fehzitu/output/snake.svg" alt="Snake animation" />
-| :-: |
--->
