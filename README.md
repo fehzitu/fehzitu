@@ -21,12 +21,6 @@ I'm a passionate developer in constant evolution, focused on mastering programmi
 - APIs & Webhooks
 - Discord.js
 
-## 📂 Featured Projects
-### 📌 Learning Repositories
-
-- 🔹 **[Killua](https://github.com/fehzitu/Killua)**  
-  Training Javascript creating an Discord bot
-
 ## 📈 Current Focus
 - Writing cleaner and more professional code
 - Understanding backend development
